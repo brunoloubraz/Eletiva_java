@@ -1,3 +1,6 @@
 [submodule "1_secao01/1_secao01/dia02_classes_e_tipos_de_dados/exercicios"]
 	path = 1_secao01/1_secao01/dia02_classes_e_tipos_de_dados/exercicios
 	url = https://github.com/tryber/java-033-java-exercicio-lista-fundamentos-java
+[submodule "2_secao02/2_secao02/projeto"]
+	path = 2_secao02/2_secao02/projeto
+	url = https://github.com/tryber/java-033-java-projeto-sistema-de-votacao

@@ -4,3 +4,6 @@
 [submodule "2_secao02/2_secao02/projeto"]
 	path = 2_secao02/2_secao02/projeto
 	url = https://github.com/tryber/java-033-java-projeto-sistema-de-votacao
+[submodule "3_secao03/dia02_injecao_de_dependencia_com_spring/3_secao03/dia02_injecao_de_dependencia_com_spring"]
+	path = 3_secao03/dia02_injecao_de_dependencia_com_spring/3_secao03/dia02_injecao_de_dependencia_com_spring
+	url = https://github.com/tryber/java-033-java-exercicio-relatorio-de-clima

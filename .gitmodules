@@ -7,3 +7,6 @@
 [submodule "3_secao03/dia02_injecao_de_dependencia_com_spring/3_secao03/dia02_injecao_de_dependencia_com_spring"]
 	path = 3_secao03/dia02_injecao_de_dependencia_com_spring/3_secao03/dia02_injecao_de_dependencia_com_spring
 	url = https://github.com/tryber/java-033-java-exercicio-relatorio-de-clima
+[submodule "3_secao03/dia04_excecoes_try_catch_finally/3_secao03/dia04_excecoes_try_catch_finally/exercicios"]
+	path = 3_secao03/dia04_excecoes_try_catch_finally/3_secao03/dia04_excecoes_try_catch_finally/exercicios
+	url = https://github.com/tryber/java-fanbase

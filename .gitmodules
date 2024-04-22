@@ -10,3 +10,6 @@
 [submodule "3_secao03/dia04_excecoes_try_catch_finally/3_secao03/dia04_excecoes_try_catch_finally/exercicios"]
 	path = 3_secao03/dia04_excecoes_try_catch_finally/3_secao03/dia04_excecoes_try_catch_finally/exercicios
 	url = https://github.com/tryber/java-fanbase
+[submodule "3_secao03/dia05_testes_com_junit/3_secao03/dia05_testes_com_junit/exercicios"]
+	path = 3_secao03/dia05_testes_com_junit/3_secao03/dia05_testes_com_junit/exercicios
+	url = https://github.com/tryber/java-033-java-exercicio-caixa-eletronico

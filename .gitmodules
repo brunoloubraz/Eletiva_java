@@ -13,3 +13,6 @@
 [submodule "3_secao03/dia05_testes_com_junit/3_secao03/dia05_testes_com_junit/exercicios"]
 	path = 3_secao03/dia05_testes_com_junit/3_secao03/dia05_testes_com_junit/exercicios
 	url = https://github.com/tryber/java-033-java-exercicio-caixa-eletronico
+[submodule "3_secao03/3_secao03/projeto"]
+	path = 3_secao03/3_secao03/projeto
+	url = https://github.com/tryber/java-033-java-projeto-localizador-de-museus

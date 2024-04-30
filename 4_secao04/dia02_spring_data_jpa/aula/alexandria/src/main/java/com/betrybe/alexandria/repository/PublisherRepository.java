@@ -1,10 +1,10 @@
 package com.betrybe.alexandria.repository;
 
 import com.betrybe.alexandria.entity.Publisher;
-import jakarta.persistence.Entity;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-@Entity
+@Repository
 public interface PublisherRepository extends JpaRepository<Publisher, Long> {
 
 }

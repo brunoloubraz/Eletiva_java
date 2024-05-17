@@ -16,3 +16,6 @@
 [submodule "3_secao03/3_secao03/projeto"]
 	path = 3_secao03/3_secao03/projeto
 	url = https://github.com/tryber/java-033-java-projeto-localizador-de-museus
+[submodule "5_secao5/5_secao5/projeto"]
+	path = 5_secao5/5_secao5/projeto
+	url = https://github.com/tryber/java-033-java-projeto-final-agrix-fase-b
